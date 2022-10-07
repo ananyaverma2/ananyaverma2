@@ -1,6 +1,6 @@
 ## Hello There! :wave:
 
-I am Ananya Verma, currently studying Master in Autonomous Systems at Bonn-Rhein-Sieg University of Applied Sciences in Bonn, Germany. 
+I am Ananya, currently studying Master in Autonomous Systems at Bonn-Rhein-Sieg University of Applied Sciences in Bonn, Germany. 
 
 ### About my interests
 
