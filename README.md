@@ -4,4 +4,6 @@ I am Ananya, currently studying Master in Autonomous Systems at Bonn-Rhein-Sieg 
 
 ## About my interests
 
-Robotics Developer with a penchant for Robot Perception and Navigation:robot:. I like to work in Computer Vision and Robot Operating Systems (ROS) coding in Python and C++. In my free time, I like to read about Space Exploration :night_with_stars: and Astrophysics. Additionally, I have an incurable addiction to books :books:.
+
+Robotics Developer with a penchant for Robot Perception and Navigation :robot: , coding in Python and C++. I am passionate about Space Robotics, and like to explore the exciting intersection of robotics and space exploration 🚀. Additionally, I have an incurable addiction to books :books: .
+
