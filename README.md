@@ -9,7 +9,7 @@
 
 ## About me :raising_hand:
 
-Robotics Developer with a penchant for Robot Perception and Navigation :robot: , coding in Python and C++. I am passionate about Space Robotics, and like to explore the exciting intersection of robotics and space exploration 🚀. Additionally, I have an incurable addiction to books :books: .
+Robotics Software Developer 🤖 passionate about Robot Perception and Navigation, with over 3 years of experience coding in Python and C++. Additionally, I have an incurable addiction to books :books:.
 
 ## Professional Highlights :computer:
 
