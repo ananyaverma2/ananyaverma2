@@ -7,17 +7,17 @@
 🔗 **LinkedIn**: [linkedin.com/in/ananyaverma2](https://www.linkedin.com/in/ananyaverma2/)  
 :globe_with_meridians: **Website**: [ananyaverma2.github.io](https://ananyaverma2.github.io/)
 
-## About me
+## About me :raising_hand:
 
 Robotics Developer with a penchant for Robot Perception and Navigation :robot: , coding in Python and C++. I am passionate about Space Robotics, and like to explore the exciting intersection of robotics and space exploration 🚀. Additionally, I have an incurable addiction to books :books: .
 
-## Professional Highlights
+## Professional Highlights :computer:
 
 - **Research Assistant** - Fraunhofer IAIS, Sankt Augustin, Germany (Apr 2022 – Present)
 - **Robotics Software Developer** - B-it-bots, Sankt Augustin, Germany (Aug 2021 – Oct 2022)
 - **Software Engineer** - Robert Bosch Engineering and Business Solutions, Bangalore, India (Sept 2019 – Oct 2020)
 
-## Technical Toolbox
+## Technical Toolbox 🛠️
 
 - **Languages:** C++, Python
 - **Robotics:** ROS/ROS2, Gazebo, RVIZ, Toyota HSR, KUKA youBot
@@ -26,10 +26,10 @@ Robotics Developer with a penchant for Robot Perception and Navigation :robot: ,
 - **Coding Tools:** Jupyter Notebook, Git, Docker
 - **Hardware:** FPGA-SoC, Vivado, Vitis HLS
 
-## Education
+## Education 🎓
 
 - **M.Sc. Autonomous Systems**, Bonn-Rhein-Sieg University of Applied Sciences, Sankt Augustin, Germany
   - **Master Thesis:** Evaluating Visual SLAM Algorithms for a Micro-Rover in Lunar Environments with Constrained Resources - DFKI GmbH, Bremen, Germany.
-  -** R&D Project:** Design of a Semantic Parser for Knowledge Representation Using Existing Computer Vision Output - Toyota Motors Europe & HBRS, Sankt Augustin, Germany.
+  - **R&D Project:** Design of a Semantic Parser for Knowledge Representation Using Existing Computer Vision Output - Toyota Motors Europe & HBRS, Sankt Augustin, Germany.
 - **B.Tech Electrical and Electronics Engineering**, Dr. A.P.J. Abdul Kalam University of Technology, India
 
